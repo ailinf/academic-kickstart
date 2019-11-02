@@ -22,9 +22,10 @@
     {{ else }}
       {{ if eq $page.Type "research" }}
         {{ $date = $page.Date.Format (default "") }}
-      {{ end }}
+      {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
           {{ i18n "last_updated" }}
+      {{ end }}
       {{ end }}
     {{ end }}
     {{ $date }}
