@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a senior data scientist at Rubikloud. Prior to this, I was a senior data scientist at JPMorgan Chase. I obtained my Ph.D. in Statistics from North Carolina State University, and my B.S. in Statistics from Yuanpei College of Peking University, China.
+I am a senior data scientist at [Rubikloud](https://rubikloud.com/). Prior to this, I was a senior data scientist at [JPMorgan Chase](https://www.jpmorganchase.com/). I obtained my Ph.D. in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/), and my B.S. in Statistics from [Yuanpei College of Peking University](https://en.wikipedia.org/wiki/Yuanpei_College), China.
 
